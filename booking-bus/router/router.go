@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/archit-tiket/booking-system/middleware"
+	"github.com/archit-tiket/booking-system/booking-bus/middleware"
 	"github.com/gorilla/mux"
 )
 
