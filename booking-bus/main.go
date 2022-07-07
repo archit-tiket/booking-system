@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/archit-tiket/booking-system/router"
+	"github.com/archit-tiket/booking-system/booking-bus/router"
 )
 
 func main() {
