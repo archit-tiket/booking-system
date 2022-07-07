@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/archit-tiket/booking-system/models"
+	"github.com/archit-tiket/booking-system/booking-bus/models"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 )
